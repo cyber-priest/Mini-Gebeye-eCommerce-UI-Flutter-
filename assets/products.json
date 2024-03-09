@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "name": "Leather Boots",
+            "imageURL": "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "brand": "VANGUARD",
+            "price": 120,
+            "description": "Crafted with the finest leather, these VANGUARD boots combine durability with style. Perfect for outdoor adventures or city walks, they offer comfort and support in any weather."
+        },
+        {
+            "name": "Silk Scarf",
+            "imageURL": "https://images.unsplash.com/photo-1571498521264-5fcaa7f8edf4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "brand": "LUMINA",
+            "price": 35,
+            "description": "This LUMINA silk scarf, featuring a timeless design, adds a touch of elegance and sophistication to any outfit. Its soft, luxurious fabric promises to wrap you in warmth and style."
+        },
+        {
+            "name": "Aviator Sunglasses",
+            "imageURL": "https://images.unsplash.com/photo-1589642380614-4a8c2147b857?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "brand": "SKYLIGHT",
+            "price": 85,
+            "description": "SKYLIGHT Aviator Sunglasses offer a classic style that never fades. With UV protection and durable frames, they are an essential accessory for sunny days and outdoor activities."
+        },
+        {
+            "name": "Cashmere Sweater",
+            "imageURL": "https://images.unsplash.com/photo-1624378407998-48becabd8c27?q=80&w=1517&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "brand": "MERINO",
+            "price": 150,
+            "description": "Experience the unparalleled softness and warmth of our MERINO cashmere sweater. Designed for both comfort and style, it's a luxurious addition to your wardrobe, suitable for any occasion."
+        }
+    ]
+}
